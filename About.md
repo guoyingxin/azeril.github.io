@@ -2,12 +2,13 @@
 layout: page
 title: "ABOUT"
 description: "HELLO"
-header-img: "imgages/mountain.jpg"
+header-img: "images/mountain.jpg"
 ---
 
 <center>
     <p><img src="img/cat.png" align="center"></p>
-</center>
+</center>  
+
 
 
 喜欢宅，喜欢集体生活。  
