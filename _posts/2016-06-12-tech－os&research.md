@@ -10,9 +10,9 @@ description: say say say
 
 与MacBook相处时间不久，久了以后，再回来写一篇好了。不过依然记得课程第一周时，一边熟悉OS一边熟悉Github Desktop那种焦头烂额但是最后终于提交成功第一次作业时的喜悦以及满满的成就感。那是我和MacBook第一次并肩作战。嗯！棒棒哒！
 
----  
+---   
 
-##应用推荐
+## 应用推荐
 在软件方面，用的不是特别多，一方面是OS中软件大多需要付费，另一方面时间不长，还没有特别强烈的需求。  
 但是，还是会有强烈推荐的list：   
   
@@ -80,5 +80,5 @@ windows系统上我最爱的硬盘搜索，比系统自带的搜索功能快多�
 ［文件类型＋关键词］
 
 #### 5.Tab 添加自定义搜索，
-<img src="http://openmindclub.qiniudn.com/Azeril/OSSearchSearchTab.png">
+<img src="https://github.com/guoyingxin/guoyingxin.github.io/blob/master/images/pic/20160612-1.png?raw=true">
 
