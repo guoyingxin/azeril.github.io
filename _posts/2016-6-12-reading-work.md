@@ -1,3 +1,12 @@
+---
+layout: post
+title: 工作谈-笔记
+categories: [blog ]
+tags: [笔记, ]
+description: alie
+
+---
+
 ### 工作谈
 
 @(笔记)
